@@ -3,7 +3,7 @@
 <h3 align="center">CYBER SECURITY ENTHUSIAST |</h3>
 <img align="right" alt="Cyber Security" width="400" src="https://media.tenor.com/Z25t-Dm102AAAAAC/welcome.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guybad" alt="guybad" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ivickymahajan" target="blank"><img src="https://img.shields.io/twitter/follow/ivickymahajan?logo=twitter&style=for-the-badge" alt="ivickymahajan" /></a> </p>
 
